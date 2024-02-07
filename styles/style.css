@@ -283,10 +283,11 @@ body {
     font-size: 20px;
     line-height:normal;
     padding-bottom: 26px;
+    padding-right: 25px;
 }
 
 .footer {
-    padding: 105px 50px 78px;
+    padding: 81px 50px 78px;
     display: flex;
     justify-content: space-between;
     text-underline-offset: 4px;
